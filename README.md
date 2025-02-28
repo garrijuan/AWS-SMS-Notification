@@ -2,4 +2,5 @@
 
 ## Arquitecture
 
-![alt text](/images/arquitecture.png "arquitecture")
+![alt text](/documentation/arquitecture.png "arquitecture")
+
