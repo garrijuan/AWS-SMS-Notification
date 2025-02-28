@@ -16,7 +16,7 @@ def lambda_handler(event, context):
             },
             'MessageConfiguration' : {
                 'SMSMessage' : {
-                    'Body': x["answer"],        # 'answer' is a variable that will come to Lambda in the http request
+                    'Body': x["answer"],        # 'answer' is a variable that will come to Lambda in the http request 
                     'MessageType': 'PROMOTIONAL'
                 }
             }
